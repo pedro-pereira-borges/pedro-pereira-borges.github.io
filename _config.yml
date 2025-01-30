@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Phd student at Insper Instituto de Ensino e Pesquisa
   Applied Micro 
 
-<!--  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> -->
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
