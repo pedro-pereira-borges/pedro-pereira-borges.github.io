@@ -1,11 +1,10 @@
 title: Pedro Pereira Borges # your name (or website title) here
 logo: "/images/image.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  Phd student at Insper Instituto de Ensino e Pesquisa
   Applied Micro 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
+<!--  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> -->
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
